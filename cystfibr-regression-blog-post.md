@@ -1,6 +1,6 @@
 # Cystic Fibrosis Lung Function: ANOVA and Multiple Regression in R
 
-*By [Your name] · Posted October 28, 2026 · Based on Chapter 11 (Multiple Linear Regression) of* Introductory Statistics with R
+*By Dustin Harrell · Posted October 28, 2026 · Based on Chapter 11 (Multiple Linear Regression) of* Introductory Statistics with R
 
 For this post I used the `cystfibr` dataset from the ISwR package. It holds lung function and body measurements for 25 patients with cystic fibrosis, and I wanted to see which measurements help explain how strong a patient's respiratory muscles are. I ran the same model two ways, as a regression summary and as an ANOVA table, and the two views tell slightly different stories. That difference turned out to be the most interesting part.
 
